@@ -4,7 +4,7 @@ A reworked version of **MessageLoggerV2**, patched to work with modern BetterDis
 
 ## Overview
 
-Original versions of MessageLoggerV2 and its companion libraries relied on legacy `BdApi` methods (`BdApi.findModuleByProps`, `BdApi.isSettingEnabled`, `BdApi.alert`, `BdApi.getData`, etc.) that were removed in more or less recent BetterDiscord updates, causing the plugins to crash on startup.
+Original versions of MessageLoggerV2 and its companion libraries relied on legacy `BdApi` methods (`BdApi.findModuleByProps`, `BdApi.isSettingEnabled`, `BdApi.alert`, `BdApi.getData`, etc.) that were removed since in BetterDiscord updates, causing the plugins to crash on startup.
 
 This repository provides updated versions of **MessageLoggerV2**, **XenoLib**, and **ZeresPluginLibrary** migrated to use the current namespaced BetterDiscord API (`BdApi.Webpack`, `BdApi.UI`, `BdApi.Data`, and `BdApi.Plugins`).
 
@@ -51,7 +51,7 @@ This repository provides updated versions of **MessageLoggerV2**, **XenoLib**, a
 ## Important Notes & Known Limitations
 
 - **Discord Client Updates**: MessageLoggerV2 relies on Discord's internal Flux dispatcher and React component structures. Future Discord updates may require adjustments to internal module selectors.
-- **Settings Data**: Do not overwrite or commit `MessageLoggerV2.config.json` if you already have existing logged message history.
+- **Settings Data**: Don't delete MessageLoggerV2.config.json in your plugins folder when updating, or you may lose your settings and logged messages.
 
 ---
 
