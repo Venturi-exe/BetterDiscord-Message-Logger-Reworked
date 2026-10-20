@@ -62,12 +62,9 @@ This repository provides updated versions of **MessageLoggerV2**, **XenoLib**, a
 
 ## Tested on
 
-- ## Discord Info
-Stable 641803 (c873334)
-Windows 11 64-bit (10.0.26200)
+- **Discord** : Stable 641803 (c873334) ; Windows 11 64-bit (10.0.26200)
 
-- ## BetterDiscord 
-Stable 1.14.3 (6d51b92)
+- **BetterDiscord** : Stable 1.14.3 (6d51b92)
 
 ## Disclaimer
 Unofficial community patches. Not affiliated with or supported by the original
