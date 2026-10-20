@@ -1,26 +1,55 @@
-Interactive Form Planner for Antigravity Personal (IFPA) Use License
+BetterDiscord-Message-Logger-Reworked Use License
 
-Copyright (c) 2026 IFPA by Venturi-exe/VNTR.CORP
+Copyright (c) 2026 Venturi-exe / VNTR.CORP (modifications only)
 
-This software is licensed for PERSONAL, NON-COMMERCIAL USE ONLY.
+This license applies ONLY to the modifications made by Venturi-exe / VNTR.CORP
+to the files in this repository. It does not apply to the original code. See
+"Third-party code and original authors" below.
 
-PERMITTED:
-- Individual users may use, copy, and modify this software for personal use
+This Plugin is licensed for PERSONAL, NON-COMMERCIAL USE ONLY.
+
+PERMITTED :
+- Individual users may use, copy, and modify the modifications for personal use
 - Students and hobbyists may use this for learning and personal projects
 - Contributors may submit improvements via pull requests
 
-NOT PERMITTED:
+NOT PERMITTED :
 - Commercial use by businesses, enterprises, or organizations
-- Selling, licensing, or distributing this software for profit
-- Using this software as part of a commercial product or service
+- Selling, licensing, or distributing this plugin for profit
+- Using this plugin as part of a commercial product or service
 - Enterprise or corporate deployments
 - Redistributing modified versions without attribution
 
-For commercial licensing inquiries, please contact the author.
-
-ATTRIBUTION:
-- Any shared or forked version must include this license and credit the original author
+ATTRIBUTION :
+- Any shared or forked version must include this license and credit the
+  original authors listed below
 - Modifications must be clearly marked as such
+
+THIRD-PARTY CODE AND ORIGINAL AUTHORS
+This repository is an unofficial patch of work by other authors. It is not
+affiliated with or endorsed by them.
+
+- MessageLoggerV2 and XenoLib
+  Original author: Lighty (https://github.com/1Lighty)
+  Original license : no license found as of 2026
+  Rights in the original code remain with the original author.
+
+- ZeresPluginLibrary (BDPluginLibrary)
+  Original author: Zerebos (https://github.com/zerebos)
+  Original license: MIT. The original copyright notice and MIT permission
+  text are reproduced below and apply to the original code in
+  0PluginLibrary.plugin.js.
+
+" Copyright 2018 Zachary Rauen
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions :
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. "
+
+CHANGES
+The files were modified in 2026 by Venturi-exe / VNTR.CORP.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
