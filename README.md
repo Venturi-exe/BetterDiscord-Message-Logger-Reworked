@@ -57,5 +57,5 @@ This repository provides updated versions of **MessageLoggerV2**, **XenoLib**, a
 
 ## Credits
 
-- **Lighty** - Original author of MessageLoggerV2 and XenoLib.
-- **Zerebos** - Original author of ZeresPluginLibrary (BDPluginLibrary).
+- **Lighty** - https://github.com/1Lighty - Original author of MessageLoggerV2 and XenoLib.
+- **Zerebos** - https://github.com/zerebos - Original author of ZeresPluginLibrary (BDPluginLibrary).
