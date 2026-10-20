@@ -1,6 +1,6 @@
 # BetterDiscord Message Logger Reworked
 
-A reworked version of **MessageLoggerV2**, patched to work with modern BetterDiscord releases.
+A reworked version of **MessageLoggerV2**, patched to work with modern BetterDiscord releases. (i'll probably update this repo if a new BD/Discord update breaks it)
 
 ## Overview
 
@@ -41,9 +41,10 @@ This repository provides updated versions of **MessageLoggerV2**, **XenoLib**, a
    - **Linux**: `~/.config/BetterDiscord/plugins`
 4. Reload Discord (`Ctrl + R` on Windows/Linux, `Cmd + R` on macOS).
 5. Open **Discord Settings -> Plugins** and enable them in this order:
-   1. **ZeresPluginLibrary**
-   2. **XenoLib**
-   3. **MessageLoggerV2**
+   1 **ZeresPluginLibrary**
+   2 **XenoLib**
+   3 **MessageLoggerV2**
+6. Dismiss the "delete now" popup
 
 ---
 
